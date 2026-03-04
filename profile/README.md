@@ -2,30 +2,30 @@
 The WashU EEPS GitHub page hosts code, teaching materials, datasets, and reproducible research produced by the [Department of Earth, Environmental, and Planetary Sciences](https://eeps.wustl.edu/) (EEPS) at [Washington University in St. Louis](https://washu.edu/).
 
 ## What this organization contains
-Repositories here mostly fall into several categories:
+Repositories here mostly fall into several categories:  
 **Courses**
 - teaching materials
 - assignments
-- example notebooks
+- example notebooks  
 **Research projects**
 - analysis pipelines
 - modeling code
-- field or laboratory data processing
+- field or laboratory data processing  
 **Tools**
-- reusable software developed in EEPS
+- reusable software developed in EEPS  
 **Datasets**
-- curated or derived research data products
+- curated or derived research data products  
 **Templates**
 - starter repositories for research and coursework
 
-## Access
-To request membership in the organization:
-→ https://github.com/washu-eeps/join
-Include your GitHub username and your role (faculty, student, staff, collaborator).
+## Access  
+To request membership in the organization:  
+→ [https://github.com/washu-eeps/join](https://github.com/washu-eeps/join)  
+Include your GitHub username and your role (faculty, student, staff, collaborator).  
 An organization administrator will send an invitation.
 
 ## Best practices
-When creating new repositories:
+When creating new repositories:  
 - Use clear naming (e.g., `course-eeps3230-2026`)
 - Include a `README.md`
 - Document data and dependencies
