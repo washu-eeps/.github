@@ -3,25 +3,11 @@ The WashU EEPS GitHub page hosts code, teaching materials, datasets, and reprodu
 
 ## What this organization contains
 Repositories here mostly fall into several categories:  
-
-**Courses**
-- teaching materials
-- assignments
-- example notebooks
-
-**Research projects**
-- analysis pipelines
-- modeling code
-- field or laboratory data processing  
-
-**Tools**
-- reusable software developed in EEPS  
-
-**Datasets**
-- curated or derived research data products  
-
-**Templates**
-- starter repositories for research and coursework
+- Courses (teaching materials, assignments, example notebooks)
+- Research projects (analysis pipelines, modeling code, field or lab data processing)
+- Tools (reusable software developed in EEPS)
+- Datasets (curated or derived research data products)
+- Templates (starter repos for research and coursework)
 
 ## Access  
 To request membership in the organization:  
