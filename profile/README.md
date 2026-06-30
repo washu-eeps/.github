@@ -1,24 +1,35 @@
-# WashU EEPS GitHub
-The WashU EEPS GitHub page hosts code, teaching materials, datasets, and reproducible research produced by the [Department of Earth, Environmental, and Planetary Sciences](https://eeps.wustl.edu/) (EEPS) at [Washington University in St. Louis](https://washu.edu/).
+# WashU EEPS on GitHub
 
-## What this organization contains
-Repositories here mostly fall into several categories:  
-- Courses (teaching materials, assignments, example notebooks)
-- Research projects (analysis pipelines, modeling code, field or lab data processing)
-- Tools (reusable software developed in EEPS)
-- Datasets (curated or derived research data products)
-- Templates (starter repos for research and coursework)
+Code, teaching materials, datasets, and reproducible research from the
+[Department of Earth, Environmental, and Planetary Sciences](https://eeps.washu.edu/)
+(EEPS) at [Washington University in Saint Louis](https://washu.edu/).
 
-## Access  
-To request membership in the organization:  
-→ [https://github.com/washu-eeps/join](https://github.com/washu-eeps/join)  
-Include your GitHub username and your role (faculty, student, staff, collaborator).  
-An organization administrator will send an invitation.
+Work in EEPS spans biogeochemistry and geomicrobiology, remote sensing,
+geomorphology, and planetary science, increasingly using open data, satellite
+imagery, and machine learning. This organization is where that work, and the
+courses that teach it, live in the open.
 
-## Best practices
-When creating new repositories:  
-- Use clear naming (e.g., `course-eeps3230-2026`)
-- Include a `README.md`
-- Document data and dependencies
-- Prefer pull requests over direct commits to `main`
+## Explore
+- **[Earth Data Challenge](https://github.com/washu-eeps/EDC-2026)** — students
+  take on real research questions with satellite and environmental data. Start
+  with the [intro notebooks](https://github.com/washu-eeps/edc-intro-demos) and
+  [research demos](https://github.com/washu-eeps/edc-research-demos).
+- **Courses** — assignments, templates, and example notebooks (e.g.
+  [EEPS 3230 Biogeochemistry](https://github.com/washu-eeps/template-eeps3230-2026-hw1)).
+- **Tools** — reusable software developed in EEPS, such as
+  [llm-skills](https://github.com/washu-eeps/llm-skills).
 
+Many research repositories stay private while work is in progress; the pinned
+repositories below are the best place to start.
+
+## Joining the organization
+Members of EEPS and collaborators can request access:
+→ **[Request membership](https://github.com/washu-eeps/join)** — include your
+GitHub username and your role (faculty, student, staff, collaborator). An
+administrator will send an invitation.
+
+## Repository conventions
+- Clear, descriptive names (e.g. `course-eeps3230-2026`, `edc-research-demos`)
+- A `README.md` in every repo
+- Documented data sources and dependencies
+- Pull requests over direct commits to `main`
