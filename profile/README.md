@@ -2,11 +2,13 @@
 
 Code, teaching materials, datasets, and reproducible research from the
 [Department of Earth, Environmental, and Planetary Sciences](https://eeps.washu.edu/)
-(EEPS) at [Washington University in Saint Louis](https://washu.edu/).
+(EEPS) at [Washington University in St. Louis](https://washu.edu/).
 
-Work in EEPS spans biogeochemistry and geomicrobiology, remote sensing,
-geomorphology, and planetary science, increasingly using open data, satellite
-imagery, and machine learning. This organization is where that work, and the
+From the ground beneath our feet to worlds across the solar system, EEPS takes on
+questions ranging from the origins of life and Earth's deep interior to contaminant
+transport in natural systems and the search for ancient water on Mars. We use
+quantitative methods, geospatial tools, and AI and machine learning to interpret
+satellite data and sensor networks. This organization is where that work, and the
 courses that teach it, live in the open.
 
 ## Explore
