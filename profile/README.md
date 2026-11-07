@@ -12,9 +12,10 @@ satellite data and sensor networks. This organization is where that work, and th
 courses that teach it, live in the open.
 
 ## Explore
-- **[Earth Data Challenge](https://washu-eeps.github.io/EDC-2026/)** — students
-  take on real research questions with satellite and environmental data. Start
-  with the [intro notebooks](https://github.com/washu-eeps/edc-intro-demos) and
+- **[Earth Data Challenge 2027](https://washu-eeps.github.io/EDC-2027/)** — students
+  work in teams on Earth, environmental, and planetary data projects. Explore the
+  [2026 course](https://washu-eeps.github.io/EDC-2026/),
+  [intro notebooks](https://github.com/washu-eeps/edc-intro-demos), and
   [research demos](https://github.com/washu-eeps/edc-research-demos).
 - **Courses** — assignments, templates, and example notebooks (e.g.
   [EEPS 3230 Biogeochemistry](https://github.com/washu-eeps/template-eeps3230-2026-hw1)).
